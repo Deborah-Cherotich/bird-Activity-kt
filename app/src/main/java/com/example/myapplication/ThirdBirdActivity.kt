@@ -34,7 +34,7 @@ class ThirdBirdActivity : AppCompatActivity() {
             startActivity(intent)
         }
         Picasso.get()
-            .load("https://cdn.pixabay.com/photo/2023/04/23/15/07/ai-generated-7945910_960_720.jpg").into(binding.imageView5)
+            .load("https://cdn.pixabay.com/photo/2023/04/23/15/07/ai-generated-7945910_960_720.jpg").into(binding.imageView6)
 
         }
     }
